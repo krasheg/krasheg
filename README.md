@@ -3,7 +3,7 @@
   
   
   <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <p>My name is Yehor, and I'm a Python Developer. I am a junior developer who loves working on web applications using Django.</p>
+  <p>My name is Yehor, and I'm a Python/Django web developer who enjoys working on projects that challenge me to learn and grow as a developer. I have experience building web applications from scratch and deploying them to the cloud. In my free time, I like to experiment with new technologies and read documentation to stay up-to-date with the latest trends.</p>
   <br/>
   <p>
     <a href="https://www.linkedin.com/in/yehor-romaniuk-b070a5222/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
